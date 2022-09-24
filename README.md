@@ -26,3 +26,6 @@ The GFDC numbers and captions are published with the same license.
 - French <a href="https://belinra.inrae.fr/index.php?lvl=notice_display&id=4153">1960</a>, <a href="https://hal.archives-ouvertes.fr/hal-03483745/document">1936</a>
 - Spanish 1959 Sistema Oxford de clasificación decimal para bibliografía forestal: versión española
                Comisión Española de Bibliografía y Termología de Madrid
+
+
+Article on <a href="https://arxiv.org/ftp/arxiv/papers/2204/2204.14066.pdf">Classifications as linked open data</a>
