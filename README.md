@@ -20,5 +20,6 @@ GFDC numbers and captions are published with the same license.
 - Finnish abridged version 2017 (previous version 1989)
 - Swedish abridged version 2018 (previous version 1966)
 - French 1992
-- Spanish
+- Spanish 1959 Sistema Oxford de clasificación decimal para bibliografía forestal: versión española
+               Comisión Española de Bibliografía y Termología de Madrid
 - Slovenian 1975
